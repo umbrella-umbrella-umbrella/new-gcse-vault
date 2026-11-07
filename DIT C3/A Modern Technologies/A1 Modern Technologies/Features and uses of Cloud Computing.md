@@ -1,0 +1,20 @@
+### Cloud Computing (Features and uses of Cloud Computing)
+- Cloud computing is the delivery of computing services over the internet instead of relying on local computers or servers. 
+  
+- #### Features and uses of Cloud Computing
+	- ***Online applications***
+		- Cloud computing delivers software and services through a browser or app instead of needing local installation.
+	- ***Consistency of version between users (features, file types)***
+		- All users automatically work with the latest version of software and files, avoiding compatibility issues.
+	- ***Single shared instance of a file***
+		- A file stored in the cloud has one central version, so users don’t have to send multiple copies back and forth.
+	- ***Collaboration tools/features.***
+		- Cloud platforms include features like live editing, comments, chat, and task assignment.
+
+- #### Examples of Services provided by Cloud Computing
+	- [[Features and uses of Cloud Storage|Cloud Storage]]
+	- Software
+	- Processing Power
+	- Networking
+	- Databases
+

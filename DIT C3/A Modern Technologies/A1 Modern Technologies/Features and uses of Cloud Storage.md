@@ -1,0 +1,18 @@
+### Cloud Storage (Features and uses of Cloud Storage)
+- Cloud storage is a way of saving data on the internet or "cloud" instead of directly on a physical device like a hard drive or USB stick.
+- It is an example of [[Features and uses of Cloud Computing|Cloud Computing]]
+  
+- #### Features of Cloud Storage:
+	- ***Setting and Sharing of Access Rights***
+		- Control who can view, edit, or comment on files.
+		- Google Drive allows owners to set files as “Viewer,” “Commenter,” or “Editor.”
+	- ***Synchronisation of cloud and individual devices***
+		- Automatically updates files across all linked devices.
+		- Dropbox synchronises files on a laptop, phone, and tablet so changes appear everywhere.
+	- ***Availability***
+		- Files can be accessed anytime, anywhere with internet.
+		- iCloud allows users to access documents or photos from any Apple device at any time.
+	- ***Scalability***
+		- Users can rent more storage or reduce it to save money.
+		- OneDrive offers 5 GB free storage, with paid plans up to 1 TB.
+
