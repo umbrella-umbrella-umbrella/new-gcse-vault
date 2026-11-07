@@ -1,0 +1,17 @@
+### Changes to modern teams facilitated by Modern Technologies:
+- A modern team refers to a group of people who work together using contemporary methods and tools to achieve shared goals, often in a flexible, collaborative, and technology-driven way.
+- **They are**
+	- **Global / "World Teams"** (not bound by geographical restrictions, diversity)
+		- ***EXAMPLE:*** A marketing agency based in London can collaborate with video editors in Canada and content writers in South Africa using Zoom meetings and shared Google Docs.
+	- **Multicultural**
+		- ***EXAMPLE:*** An international software company can use Slack for communication and relies on automatic translation plugins so Japanese and Spanish employees can collaborate seamlessly.
+	- **Inclusive**
+		- ***EXAMPLE:*** A programmer with a visual impairment uses screen-reading software and attends team meetings via Zoom with live captions enabled.
+	- **Flexible** 
+		- Can work 24/7/365, as there aren't set work hours, and they can live in different time zones.
+		- ***EXAMPLE:*** A customer support team operates 24/7 by having members in Asia, Europe, and the US. They use Slack and Zendesk so tickets are handled smoothly across time zones
+
+
+---
+
+Links: [[Managing Modern Teams using modern technologies]]
