@@ -28,7 +28,12 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "BTEC Tech Awards - DIT Component 3": {
+      "icon": "lucide-monitor",
+      "color": "gray"
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},

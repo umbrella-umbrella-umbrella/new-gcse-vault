@@ -5,13 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "BTEC DIT",
+      "query": "path: \"BTEC Tech Awards - DIT Component 3\"  ",
       "color": {
         "a": 1,
         "rgb": 8503806
+      }
+    },
+    {
+      "query": "file:README.md",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],
@@ -21,10 +28,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.522341463414634,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.17309107488420594,
+  "linkDistance": 98,
+  "scale": 0.3935550831976556,
   "close": true
 }
