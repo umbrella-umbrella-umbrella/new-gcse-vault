@@ -1,4 +1,7 @@
-# A Modern Technologies [✅]
+# Component 3: Effective Digital Working Practices
+
+--- 
+## A Modern Technologies [✅]
 ### A1 Modern Technologies
 ##### [[A1.1 Communication Technologies (Networks)]]
 ##### [[A1.2 Features and uses of Cloud Storage]]
@@ -17,5 +20,5 @@
 #### [[A2.5 Impact of Modern Technologies, on Individuals and Organisations]]
 
 
-# B Cyber Security 
-# C Implications of Digital Systems
+## B Cyber Security 
+## C Implications of Digital Systems
