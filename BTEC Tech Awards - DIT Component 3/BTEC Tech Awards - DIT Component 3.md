@@ -19,6 +19,19 @@
 #### [[A2.4 Inclusivity and Accessibility]]
 #### [[A2.5 Impact of Modern Technologies, on Individuals and Organisations]]
 
-
+--- 
 ## B Cyber Security 
+### B1 Threats to Data
+##### [[B1.1 Why systems are attacked]]
+##### [[B1.2 External Threats]]
+##### [[B1.3 Internal Threats]]
+##### [[B1.4 Impacts of a Security Breach]]
+
+--- 
 ## C Implications of Digital Systems
+
+--- 
+## D Planning and communication in Digital Systems
+### D1 Forms of notation
+##### [[Data Flow Diagrams]]
+##### [[Information Flow Diagram]]

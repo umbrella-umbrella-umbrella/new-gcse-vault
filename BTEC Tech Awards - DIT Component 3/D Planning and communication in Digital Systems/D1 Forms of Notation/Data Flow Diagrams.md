@@ -1,0 +1,15 @@
+- Shows how data moves through a system, not the *order of steps*
+- **It focuses on**
+	- Where data comes from, and goes
+	- How data is stored
+	- How data is processed
+- ***Key* Elements of a Data Flow Diagram**
+	- *Process, or Event*
+		- Transforms the data
+	- *External Entity*
+		- Sources or destinations of data
+		- Example: Customer
+	- *Data Store*
+		- Where the data is kept
+	- *Flow of data or information*
+		- Shows the movement of data
